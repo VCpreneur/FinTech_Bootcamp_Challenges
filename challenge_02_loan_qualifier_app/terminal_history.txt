@@ -1,0 +1,37 @@
+  435  conda activate fintech
+  436  ls
+  437  cd downloads
+  438  git clone git@github.com:VCpreneur/Loan_Qualifier_App.git
+  439  git status
+  440  ls
+  441  cd Loan_Qualifier_App
+  442  ls
+  443  git status
+  444  git add .
+  445  git commit -m "pushing starter code for module 2 challenge"
+  446  git push
+  447  code .
+  448  python app.py
+  449  git status
+  450  git add .
+  451  git commit-m "adding save_csv function in app.py"
+  452  git commit -m "adding save_csv function in app.py"
+  453  git push
+  454  python app.py
+  455  git status
+  456  git add .
+  457  git commit -m "moving save_csv function from app.py to qualifier.utils.fileio"
+  458  git push
+  459  python app.py
+  460  python app.py
+  461  python app.py
+  462  git status
+  463  git add .
+  464  git commit -m "adding user dialog to prompt user for whether they want to save their qualifying loans in a csv file, and if yes, provide output file path"
+  465  git push
+  466  git add .
+  467  git commit -m "updating the README file with app details"
+  468  git push
+  469  rm .DS_Store
+  470  conda deactivate
+  471  history -50 > terminal_history.txt
