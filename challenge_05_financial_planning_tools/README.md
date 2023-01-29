@@ -95,11 +95,11 @@ portfolio_prices_df = api.get_bars(
 
 ### You can visualize the Monte Carlo simulation cumulative portfolio returns trajectories over the next X number of trading days:
 
-![Monte Carlo simulation cumulative portfolio returns trajectories](Images/cumulative portfolio returns trajectories.png)
+![Monte Carlo simulation cumulative portfolio returns trajectories](Images/cumulative_portfolio_returns_trajectories.png)
 
 ### You can visualize the probability distribution of the Monte Carlo simulation over the Y number of simulations:
 
-![Probability distribution of the Monte Carlo simulation](Images/probability distribution of the Monte Carlo simulation.png)
+![Probability distribution of the Monte Carlo simulation](Images/probability_distribution_of_the_Monte_Carlo_simulation.png)
  
 
 ---
