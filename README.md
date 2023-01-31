@@ -1,8 +1,7 @@
 # FinTech_Bootcamp_Challenges
-Includes all code of challenges and projects from my [Berkeley FinTech Bootcamp 2023](https://bootcamp.berkeley.edu/fintech/)
+### This repo includes all code of challenges and projects from my [Berkeley FinTech Bootcamp 2023](https://bootcamp.berkeley.edu/fintech/)
 
-This bootcamp includes courses on Data Science, AI, & ML Applications in both:
-------------------------------------------------------------------------
+### The bootcamp includes courses on Data Science, AI, & ML Applications in both:
 * Traditional Financial technology programming (Web2.0 & CeFi)  
 * Decentralized Financial technology programming (DeFi, Blockchain, Web3.0, & Smart Contracts)
 
